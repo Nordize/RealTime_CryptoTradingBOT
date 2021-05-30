@@ -1,5 +1,5 @@
 # RealTime_CryptoTradingBOT By Binance API using RSI
-Binance Offical API DOC: https://github.com/binance/binance-spot-api-docs
+Binance Offical API DOC: https://github.com/binance/binance-spot-api-docs  
 Source: https://www.youtube.com/watch?v=GdlFhF6gjKo&t=157s
 # Algorithm
 We are using RSI indicator for which will sell when its OVERBOUGH (70%) and buy when its OVERSOLD (30%) in 1 Minute timelaps
